@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79ae3099-ecd9-448d-9010-06c7dc7614ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tweeter/test/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tweeter/test/test_tweeter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tweeter/test/test_tweeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tweeter/test/test_tweeter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tweeter/test/test_tweeter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -99,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tweets/templates/tweets/delete_confirm.html" />
         <option value="$PROJECT_DIR$/src/tweets/templates/tweets/search_form.html" />
         <option value="$PROJECT_DIR$/src/tweets/templates/tweets/detail_view.html" />
         <option value="$PROJECT_DIR$/src/templates/navbar.html" />
@@ -150,6 +148,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/tweets/test/tests.py" />
         <option value="$PROJECT_DIR$/.github/workflows/python-app.yml" />
+        <option value="$PROJECT_DIR$/src/tweeter/test/test_tweeter.py" />
       </list>
     </option>
   </component>
@@ -234,6 +233,27 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Unittests in test_tweeter.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tweeter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/tweeter/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/tweeter/test/test_tweeter.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_tweeter.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -247,20 +267,25 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_tweeter_py - 2020.12.14 at 22h 14m 00s.xml">
+      <configuration name="Unittests in test_tweeter.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10748156" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.10748156" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3261105" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -679,8 +704,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tweeter/test/test_tweeter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
