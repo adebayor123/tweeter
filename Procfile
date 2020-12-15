@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath tweeter.wsgi
+web: gunicorn --chdir src tweeter.wsgi
