@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/1.10/ref/settings/
 """
 
 import os
+import django_heroku
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", __file__)
 import django
 django.setup()
@@ -137,4 +138,6 @@ STATICFILES_DIRS = [
 STATIC_ROOT = os.path.join(BASE_DIR, "static-serve")
 
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
+# Activate Django-Heroku.
+django_heroku.settings(locals())
 
