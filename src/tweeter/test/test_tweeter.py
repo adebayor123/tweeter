@@ -7,7 +7,7 @@ from django.test import TestCase
 #
 # from src.tweets.models import Tweet
 class TweetModelTestCase(TestCase):
-    print("AllGood")
+    pass
 # User = get_user_model()
 #
 # class TweetModelTestCase(TestCase):
