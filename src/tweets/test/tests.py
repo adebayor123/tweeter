@@ -5,7 +5,7 @@ from django.test import TestCase
 # Create your tests here.
 
 
-from .models import Tweet
+from src.tweets.models import Tweet
 
 User = get_user_model()
 
