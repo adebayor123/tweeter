@@ -1,0 +1,11 @@
+
+<form id="navbar-search-form" class="form-inline my-2 my-lg-0" method="GET" autocomplete="off" action='{% url "search" %}'>
+    <div class="form-group">
+        <!-- <ul> -->
+        <label>
+            <input class="form-control" type="text" name="q" placeholder="Your search" value="{{ request.GET.q }}" />
+            <input class="btn btn-outline-primary my-2 my-sm-2" type="submit" value="Search">
+        </label>
+        <!-- </ul> -->
+    </div>
+</form>
