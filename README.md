@@ -2,21 +2,16 @@
 A Twitter clone application with CRUD functionality through Django REST framework.
  
 ## Motivation
-As a person who believes that technology is the major platform for human interaction and socialization, I dream to build a platform where people can interact and communicate their ideas, free from government control.
+As a person who believes that technology is the major platform for human interaction and socialization, I wish to build a platform where people can interact and communicate their ideas, free from government control.
 Before doing so, I wanted to learn about **what** really makes social media platforms so successful and have more hands-on full stack development experience.
 <br>As a result, I decided to build this project while following this awesome course: https://www.udemy.com/course/tweetme-django/.
-
-## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
-
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Tech/framework used
 <b>Built with</b>
 - [Django](https://https://www.djangoproject.com/)
 - [AJAX and JQuery](https://api.jquery.com/jquery.ajax/)
-
+- [Heroku](https://dashboard.heroku.com/)
+- [CI/CD](https://en.wikipedia.org/wiki/CI/CD)
 
 ## Features
 Basic Twitter functionalities such as:
@@ -29,7 +24,8 @@ Basic Twitter functionalities such as:
 7. Reply to Tweets
 
 ## How to use?
-TBD
+Website Link: https://tranquil-wave-35582.herokuapp.com/<br>
+You can register and try it out!
 
 ## Credits
 [Justin Mitchel](https://www.udemy.com/user/justinmitchel/) 
