@@ -14,7 +14,7 @@ import os
 import django_heroku
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", __file__)
 import django
-# django.setup()
+django.setup()
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -139,5 +139,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, "static-serve")
 
 CRISPY_TEMPLATE_PACK = 'bootstrap3'
 # Activate Django-Heroku.
-# django_heroku.settings(locals())
+django_heroku.settings(locals())
 
