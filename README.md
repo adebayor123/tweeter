@@ -25,7 +25,12 @@ Basic Twitter functionalities such as:
 
 ## How to use?
 Website Link: https://tranquil-wave-35582.herokuapp.com/<br>
-You can register and try it out!
+Without signing up, you can search tweets and users, but you will not be able to see the user details.<br>
+You can register, or use the following credentials:
+- ID: test_user
+- PW: test12345
+
+Try it out!
 
 ## Credits
 [Justin Mitchel](https://www.udemy.com/user/justinmitchel/) 
